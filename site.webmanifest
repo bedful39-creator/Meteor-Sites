@@ -1,0 +1,21 @@
+{
+  "name": "Meteor Addons",
+  "short_name": "MeteorAddons",
+  "description": "Discover and download the best free Minecraft Fabric Meteor Client addons and mods, verified and open-source with direct .jar downloads.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#d8b4fe",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/default-addon-icon.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    }
+  ]
+}
