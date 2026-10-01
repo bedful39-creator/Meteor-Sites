@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- 1. Core Broad Website Sections -->
   <url>
     <loc>https://www.meteoraddons.net/</loc>
     <lastmod>2026-10-01</lastmod>
@@ -9,7 +10,7 @@
     <image:image>
       <image:loc>https://www.meteoraddons.net/default-addon-icon.webp</image:loc>
       <image:title>Meteor Addons Directory</image:title>
-      <image:caption>Discover and download the best free Minecraft Fabric Meteor Client addons</image:caption>
+      <image:caption>All free and open-source Meteor Client addons directory</image:caption>
     </image:image>
   </url>
   <url>
@@ -18,46 +19,676 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+
+  <!-- 2. Broad Minecraft Version Archives -->
+  <url>
+    <loc>https://www.meteoraddons.net/?v=1.21.4</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/?v=1.21.1</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/?v=1.21</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/?v=1.20.4</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/?v=1.20.2</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/?v=1.19.4</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 3. Broad Category & Feature Queries -->
+  <url>
+    <loc>https://www.meteoraddons.net/?q=combat</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/?q=utility</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/?q=grief</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/?q=render</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/?q=hud</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 4. Top Verified & Community Addons -->
   <url>
     <loc>https://www.meteoraddons.net/addon/etianl/Trouser-Streak</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/etianl/trouser-streak/main/src/main/resources/assets/icon/icon.png</image:loc>
+      <image:title>TrouserStreak Meteor Addon</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.meteoraddons.net/addon/AntiCope/meteor-rejects</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/anticope/meteor-rejects/master/src/main/resources/assets/rejects/icon.png</image:loc>
+      <image:title>Meteor Rejects Meteor Addon</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.meteoraddons.net/addon/Zgoly/Meteorist</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/zgoly/meteorist/main/src/main/resources/assets/meteorist/icon.png</image:loc>
+      <image:title>Meteorist Meteor Addon</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.meteoraddons.net/addon/MeteorClientPlus/MeteorPlus</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/meteorclientplus/meteorplus/26.2/src/main/resources/assets/meteorplus/icon.png</image:loc>
+      <image:title>Meteor+ Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/MeteorDevelopment/meteor-addon-template</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/meteordevelopment/meteor-addon-template/master/src/main/resources/assets/template/icon.png</image:loc>
+      <image:title>Addon Template Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/Nekiplay/MeteorPlus</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/nekiplay/meteorplus/main/src/main/resources/assets/meteorplus/icon.png</image:loc>
+      <image:title>Meteor+ Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/KassuK1/BlackOut</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/kassuk1/blackout/main/src/main/resources/assets/blackout/logo.png</image:loc>
+      <image:title>Blackout Meteor Addon</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.meteoraddons.net/addon/maxsupermanhd/meteor-villager-roller</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/maxsupermanhd/meteor-villager-roller/main/src/main/resources/assets/roller/icon.png</image:loc>
+      <image:title>Meteor Villager Roller Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/dingzhen-vape/Meteor-I18n-Support-plugin</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/dingzhen-vape/meteor-i18n-support-plugin/master/src/main/resources/assets/yalu/icon.png</image:loc>
+      <image:title>Meteor I18n Support Meteor Addon</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.meteoraddons.net/addon/cqb13/Numby-hack</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/cqb13/numby-hack/master/src/main/resources/assets/numby-hack/logo.gif</image:loc>
+      <image:title>Numby Hack Meteor Addon</image:title>
+    </image:image>
   </url>
   <url>
     <loc>https://www.meteoraddons.net/addon/realnnpg/glazed</loc>
     <lastmod>2026-10-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/realnnpg/glazed/1.21.11/src/main/resources/assets/template/icon.png</image:loc>
+      <image:title>Glazed Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/cally72jhb/vector-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.meteoraddons.net/default-addon-icon.webp</image:loc>
+      <image:title>Vector Addon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/AntiCope/meteor-crash-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/anticope/meteor-crash-addon/master/src/main/resources/assets/meteorcrashaddon/icon.png</image:loc>
+      <image:title>Meteor Crash Addon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/miles352/meteor-stashhunting-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/miles352/meteor-stashhunting-addon/1.21.1/src/main/resources/assets/template/icon.png</image:loc>
+      <image:title>Jefffs Mods Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/RedCarlos26/HIGTools</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/redcarlos26/higtools/main/src/main/resources/assets/higtools/icon.png</image:loc>
+      <image:title>HIGTools Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/kkllffaa/meteor-litematica-printer</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/kkllffaa/meteor-litematica-printer/main/src/main/resources/assets/meteor_litematica_printer/icon.png</image:loc>
+      <image:title>Meteor Litematica Printer Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/0xTas/stardust</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/0xtas/stardust/main/src/main/resources/assets/stardust/icon.png</image:loc>
+      <image:title>Stardust Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/X-C-0/catppuccin-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/x-c-0/catppuccin-addon/stonecutter/src/main/resources/assets/catppuccin-addon/icon.png</image:loc>
+      <image:title>Catppuccin Addon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/MrBZBZ/LeavesHack</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/mrbzbz/leaveshack/main/src/main/resources/assets/leaves/icon.png</image:loc>
+      <image:title>LeavesHack Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/AntiCope/orion</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/anticope/orion/master/src/main/resources/assets/orion/icon.png</image:loc>
+      <image:title>Orion Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/Nippaku-Zanmu/meteor-translation-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/nippaku-zanmu/meteor-translation-addon/master/src/main/resources/assets/meteor-translation-addon/icon.png</image:loc>
+      <image:title>Meteor Translation Addon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/JFronny/MeteorAdditions</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/jfronny/meteoradditions/master/src/main/resources/assets/meteor-additions/icon.png</image:loc>
+      <image:title>MeteorAdditions Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/Julflips/nerv-printer-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/julflips/nerv-printer-addon/master/src/main/resources/assets/nerv/icon.png</image:loc>
+      <image:title>Nerv Printer Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/AntiP2WDevelopment/AntiP2W-Addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/antip2wdevelopment/antip2w-addon/v2/src/main/resources/assets/antip2w/icon/64x64.png</image:loc>
+      <image:title>AntiP2W Tools Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/Killetx/TridentDupe</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/killetx/tridentdupe/main/src/main/resources/assets/template/icon.png</image:loc>
+      <image:title>Trident Dupe Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/Ogmur/ServerSeeker</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/ogmur/serverseeker/master/src/main/resources/assets/serverseeker/icon.png</image:loc>
+      <image:title>ServerSeeker Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/SplashAni/RandomMeteor</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/splashani/randommeteor/main/src/main/resources/assets/random/icon.png</image:loc>
+      <image:title>MeteorRandom Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/AntiCope/meteor-e621-integration</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/anticope/meteor-e621-integration/master/src/main/resources/assets/e621/icon.png</image:loc>
+      <image:title>E621 hud Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/H1ggsK/BlackOut</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/h1ggsk/blackout/main/src/main/resources/assets/blackout/logo.png</image:loc>
+      <image:title>Blackout Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/RattlesHyper/lyra-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/rattleshyper/lyra-addon/main/src/main/resources/assets/lyra/icon.png</image:loc>
+      <image:title>Lyra Addon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/noramibu/Nora-Tweaks</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/noramibu/nora-tweaks/master/src/main/resources/assets/nora-tweaks/icon.png</image:loc>
+      <image:title>Nora Tweaks Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/crosby-moe/Tokyo-Client</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/crosby-moe/tokyo-client/main/src/main/resources/assets/tokyo-client/icon.png</image:loc>
+      <image:title>Tokyo Client Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/FaxHack/PathSeeker</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/faxhack/pathseeker/main/src/main/resources/assets/icon/icon.png</image:loc>
+      <image:title>PathSeeker Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/mikumiku7/meteor-miku</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/mikumiku7/meteor-miku/main/src/main/resources/assets/meteor-miku/icon.png</image:loc>
+      <image:title>meteor-miku Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/crazymoose7/dupe-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/crazymoose7/dupe-addon/master/src/main/resources/assets/paperdupe/icon.png</image:loc>
+      <image:title>Paper Dupe Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/jeremy46231/axon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/jeremy46231/axon/main/src/main/resources/assets/axon/icon.png</image:loc>
+      <image:title>Axon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/Nooniboi/Public-Ikea</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/nooniboi/public-ikea/main/src/main/resources/assets/ikea/ikea.png</image:loc>
+      <image:title>IKEA Addon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/xingke0/meteor_chinese</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.meteoraddons.net/default-addon-icon.webp</image:loc>
+      <image:title>meteor-chinese Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/SIMULATAN/meteor-notifications-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/simulatan/meteor-notifications-addon/main/src/main/resources/assets/notifications/icon.png</image:loc>
+      <image:title>Notifications Addon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/kkllffaa/meteor-utils</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/kkllffaa/meteor-utils/master/src/main/resources/assets/meteor-utils/icon.png</image:loc>
+      <image:title>meteor-utils Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/AntiCope/tanuki</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/anticope/tanuki/master/src/main/resources/assets/tanuki/icon.png</image:loc>
+      <image:title>Tanuki Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/dekrom/BepHaxAddon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/dekrom/bephaxaddon/main/src/main/resources/assets/template/icon.png</image:loc>
+      <image:title>Bep Hax Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/calicosun258/5c-client-N</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/calicosun258/5c-client-n/main/src/main/resources/assets/nc/icon.png</image:loc>
+      <image:title>N BSB Edition Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/CapyKing10/CapyAddon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/capyking10/capyaddon/main/src/main/resources/assets/capyaddon/icon.png</image:loc>
+      <image:title>CapyAddon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/crazycat256/meteor-satellite-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/crazycat256/meteor-satellite-addon/master/src/main/resources/assets/satellite/icon.png</image:loc>
+      <image:title>Meteor Satellite Addon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/AntiCope/reaper-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.meteoraddons.net/default-addon-icon.webp</image:loc>
+      <image:title>Reaper Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/rithsgit/Tim</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.meteoraddons.net/default-addon-icon.webp</image:loc>
+      <image:title>Tim (Trail Investigator Module) Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/qnxt/fumo-utils</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/qnxt/fumo-utils/26.2/src/main/resources/assets/icon.png</image:loc>
+      <image:title>Fumo Utils Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/stefexec/gurkens-gadgetry-public</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/stefexec/gurkens-gadgetry-public/master/src/main/resources/assets/gurk/logo.png</image:loc>
+      <image:title>Gurkens Gadgetry Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/wuritz/genyo-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/wuritz/genyo-addon/master/src/main/resources/assets/genyo/icon.png</image:loc>
+      <image:title>Genyo Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/IDhammaI/easyaddon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/idhammai/easyaddon/main/src/main/resources/assets/easyaddon/icon.png</image:loc>
+      <image:title>EasyKit Addon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/Nippaku-Zanmu/Seija-Printer</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/nippaku-zanmu/seija-printer/26.2-/src/main/resources/assets/seija_printer/icon.png</image:loc>
+      <image:title>Advanced Litematica Printer Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/crosby-moe/Electron</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/crosby-moe/electron/main/src/main/resources/assets/electron/icon.png</image:loc>
+      <image:title>Electron Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/sw1562776/milky-addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/sw1562776/milky-addon/main/src/main/resources/assets/icon.png</image:loc>
+      <image:title>Milky Mod Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/Memeruler-k/Saturn-Addon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/memeruler-k/saturn-addon/main/src/main/resources/assets/other/icon.png</image:loc>
+      <image:title>Saturn Addon Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/crosby-moe/MeteorServerSeeker</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/crosby-moe/meteorserverseeker/master/src/main/resources/assets/serverseeker/icon.png</image:loc>
+      <image:title>ServerSeeker Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/crosby-moe/Electron</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/racoondog/electron/main/src/main/resources/assets/electron/icon.png</image:loc>
+      <image:title>Electron Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/Nxyi/McsdcMeteor</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/nxyi/mcsdcmeteor/master/src/main/resources/assets/icon.png</image:loc>
+      <image:title>Mcsdc Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/omtoi101/Stash-Hunter</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/Papxx/Stash-Hunter26.2-by-_og3/main/src/main/resources/assets/template/icon.png</image:loc>
+      <image:title>StashhunterPort by _og3 Meteor Addon</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.meteoraddons.net/addon/Hybanos/HAHAddon</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://raw.githubusercontent.com/hybanos/hahaddon/master/src/main/resources/assets/template/icon.png</image:loc>
+      <image:title>HAHAddon Meteor Addon</image:title>
+    </image:image>
   </url>
 </urlset>
